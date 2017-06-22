@@ -5,3 +5,15 @@ nav, header, footer, section {
 div {
   background-color: rgba(0, 255, 255, 0.4);
 }
+
+ul {
+  font-size: 1.2em;
+}
+
+li {
+  margin-top: 10px;
+}
+
+img {
+  width: 100%;
+}
